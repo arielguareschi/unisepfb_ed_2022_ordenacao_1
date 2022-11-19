@@ -1,2 +1,3 @@
-# unisepfb_ed_2022_ordenacao_1
-unisepfb_ed_2022_ordenacao_1
+Bubble Sort
+
+Utilizando a linguagem Ruby podemos ver o funcionamento de uma ordenação de Matrizes do tipo bubble sort. Para fins de organização de código utilizei classes para exemplificar. Dentro da pasta 'src' temos um script Ruby com uma classe chamada BubbleSort, dentro desta classe temos um initialize que recebe como parametro uma matriz, e logo chama o método bubble_sort passando esse parametro como argumento para o método. O Funcionamento de um bubble_sort é bem simples basicamente o mesmo irá percorrer a matriz comparando o elemento atual da iteração com o próximo elemento da matriz se o mesmo for menor que o atual elemento este é 'trocado' de posição com o elento considerado maior, o final da iteração se dá quando todos os elementos da matriz forem percorridos e devidamente ajustados.

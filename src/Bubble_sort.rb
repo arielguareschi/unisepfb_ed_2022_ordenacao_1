@@ -1,5 +1,3 @@
-require 'pry'
-
 class BubbleSort
     attr_accessor :result
 
